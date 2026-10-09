@@ -1,9 +1,5 @@
-# PYTHON-FOR-DATA-ANALYTICS (1)
-
-
-Assignments work.
-
-Session 1 - 
+# Session 1  
+Assignments work. 
 
 Tasks
 1. Install Anaconda on your system, open Anaconda Navigator, and launch Jupyter Notebook from it.
